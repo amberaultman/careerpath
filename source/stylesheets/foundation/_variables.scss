@@ -173,7 +173,7 @@ $body-bg: transparent;
 // Control header font styles
 
 // $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-// $header-font-weight: bold;
+$header-font-weight: normal;
 // $header-font-style: normal;
 // $header-font-color: #222;
 // $header-line-height: 1.4;
@@ -1255,7 +1255,7 @@ $body-bg: transparent;
 
 // Background color for the top bar
 
-$topbar-bg-color: #7D3990;
+$topbar-bg-color: #2E2330;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
@@ -1283,7 +1283,7 @@ $topbar-height: 60px;
 
 // Set the link colors and styles for top-level nav
 
-// $topbar-link-color: #fff;
+$topbar-link-color: #4488EE;
 // $topbar-link-color-hover: #fff;
 // $topbar-link-color-active: #fff;
 // $topbar-link-weight: bold;
